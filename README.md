@@ -75,7 +75,7 @@ Execute Retina:
 kubectl-retina capture create --help
 ```
 
-For further CLI documentation, see [Capture with Retina CLI](../captures/cli.md).
+For further CLI documentation, see [Capture with Retina CLI](../docs/installation/cli.md).
 
 #### Captures via CRD
 
